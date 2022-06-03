@@ -15,5 +15,11 @@
 		<module name="JavadocType">
 			<property name="authorFormat" value="\S"/>
 		</module>
+		<module name="MethodName">
+			<property name="format" value="^[a-z](\w)*$"/>
+		</module>
+		<module name="WhitespaceAfter">
+			<property name="tokens" value="COMMA, SEMI"/>
+		</module>
 	</module>
 </module>
