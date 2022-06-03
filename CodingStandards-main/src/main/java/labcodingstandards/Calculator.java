@@ -61,7 +61,7 @@ public class Calculator {
      * @param first
      * @param second
      * @param operator
-     * @return
+     * @return result
      */
  
     private String operation(double first, double second, char operator) {

@@ -20,6 +20,7 @@
 		</module>
 		<module name="WhitespaceAfter">
 			<property name="tokens" value="COMMA, SEMI"/>
-		</module>
+		</module>	
+		<module name="JavadocMethod"/>
 	</module>
 </module>
